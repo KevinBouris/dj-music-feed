@@ -1,4 +1,30 @@
-# Présentation du projet
+# Cahier des charges DjFeed
 
-Site internet permettant au dj d'agréger les différentes sortie musical sur les différentes plateformes connues afin d'obtenir rapidement les nouveautés.
+## Introduction
+Les artistes cumulent beaucoup de sources (Beatport, Bandcamp, Soundcloud, Juno, etc.) différentes pour trouver la bonne nouveauté à intégrer à leur playlist. La perte de temps généré par les différentes recherches doit donc être réorienté vers le travail des playlists et de préparation.  
+
+## Objectifs
+
+Ce site internet aura divers objectifs :
+- Dans un premier temps le site permettra d'agréger les contenues des diverses plateformes d'achat / streaming pour que les artistes puissent suivre les sorties de manière intuitive et rapide.
+- Par la suite le site pourra se développer afin de le rendre communautaire en partageant avec ses amies les nouveautés que l'on suit.
+- Le site pourra permettre aussi de créer, arrangé des playlists conçu avec les différentes sources afin de préparer au mieux ces sets avant de les acheter
+
+## Public visé
+Les djs qui souhaitent améliorer leur skill et être plus productif dans la préparation de leurs sets et suivie d'actualités.
+
+## Définition du MVP
+- Création de compte utilisateur.
+- Connexion des utilisateurs.
+- BREAD fonctionnel pour la création des playlists.
+- Modification de son compte utilisateur.
+- Page permettant d'obtenir les actualités récentes de tous les sites suivis.
+- Page permettant de suivre les actualités d'une seule source.
+- Système de filtre par genre musical.
+
+## Fonctionnalités de l'application
+- Form pour l'inscription
+- Form de connexion
+- Authentification sur les APIs des sites que l'on souhaite suivre
+
 
