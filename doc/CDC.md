@@ -40,7 +40,7 @@ Les djs qui souhaitent améliorer leur skill et être plus productif dans la pr�
 - Page affichant les actualités de la semaine / du jour / du mois pour toutes les sources ou une seule
 
 ## Potentielles évolutions
-L'ajout de fonctionnalités communautaire (partage de nouveauté, système de chat en temps réel), créer un centre névralgique pour les djs, gestions de date de concert.
+L'ajout de fonctionnalités communautaire (partage de nouveauté, système de chat en temps réel), créer un centre névralgique pour les djs, gestions de date de concert, etc.
 
 ## Technologies utilisées
 - Symfony
