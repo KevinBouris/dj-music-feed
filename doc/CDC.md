@@ -23,8 +23,26 @@ Les djs qui souhaitent améliorer leur skill et être plus productif dans la pr�
 - Système de filtre par genre musical.
 
 ## Fonctionnalités de l'application
-- Form pour l'inscription
-- Form de connexion
-- Authentification sur les APIs des sites que l'on souhaite suivre
+- Form pour l'inscription.
+- Form de connexion.
+- Authentification sur les APIs des sites que l'on souhaite suivre.
+- Accès à son profil utilisateur
+    - possibilité d'éditer son profil
+    - possibilité de supprimer son compte
+    - choix de ses courants musicaux favoris
+- Création de playlist
+    - création de playlist avec le contenu agréger
+    - suppression de playlist
+    - ajout d'une nouvelle playlist
+    - ajout d'un nouveau morceau à la playlist
+    - edition d'une playlist
+    - accès direct au site fournissant le morceau pour achat
+- Page affichant les actualités de la semaine / du jour / du mois pour toutes les sources ou une seule
 
+## Potentielles évolutions
+L'ajout de fonctionnalités communautaire (partage de nouveauté, système de chat en temps réel), créer un centre névralgique pour les djs, gestions de date de concert.
 
+## Technologies utilisées
+- Symfony
+- Webpack encore
+- React ????
