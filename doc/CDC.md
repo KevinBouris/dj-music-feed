@@ -52,7 +52,15 @@ Un design basé sur les principes du glassmorphism (https://dribbble.com/tags/gl
 
 
 ### - Inspirations
-Header inspiré du header du site www.awwwwards.com
+- Header inspiré du header du site www.awwwwards.com.
+- Contenu de la page d'accueil pour un utilisateur non connecté :
+    - Un titre accrocheur
+    - Une présentation du site accrocheuse poussant les utilisateurs à vouloir s'inscrire
+    - des aperçus (carousel ?) du site afin de le présenter.
+      (cf: https://cssnectar.com/css-gallery-inspiration/allo-floride/)
+- Fond du body avec la librairie Venta.js (https://www.vantajs.com/)
+
+### - Police de caractère
 
 ### - Couleurs
 
