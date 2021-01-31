@@ -46,3 +46,13 @@ L'ajout de fonctionnalités communautaire (partage de nouveauté, système de ch
 - Symfony
 - Webpack encore
 - React ????
+
+## Design
+Un design basé sur les principes du glassmorphism (https://dribbble.com/tags/glass_morphism).
+
+
+### - Inspirations
+Header inspiré du header du site www.awwwwards.com
+
+### - Couleurs
+
