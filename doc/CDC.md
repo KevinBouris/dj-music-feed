@@ -45,6 +45,7 @@ L'ajout de fonctionnalités communautaire (partage de nouveauté, système de ch
 ## Technologies utilisées
 - Symfony
 - Webpack encore
+- Tailwind CSS  
 - React ????
 
 ## Design
@@ -57,7 +58,7 @@ Un design basé sur les principes du glassmorphism (https://dribbble.com/tags/gl
     - Un titre accrocheur
     - Une présentation du site accrocheuse poussant les utilisateurs à vouloir s'inscrire
     - des aperçus (carousel ?) du site afin de le présenter.
-      (cf: https://cssnectar.com/css-gallery-inspiration/allo-floride/)
+      (cf : https://cssnectar.com/css-gallery-inspiration/allo-floride/)
 - Fond du body avec la librairie Venta.js (https://www.vantajs.com/)
 
 ### - Police de caractère
